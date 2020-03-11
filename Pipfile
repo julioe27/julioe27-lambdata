@@ -3,7 +3,10 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
+# dev-packages prevents someone from downloading packages that they don't need
 [dev-packages]
+twine = "*"
+v = {editable = true,version = "*"}
 
 [packages]
 pandas = "*"
