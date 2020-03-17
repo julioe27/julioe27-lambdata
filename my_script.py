@@ -1,13 +1,10 @@
 import pandas
 import numpy
 
-from my_mod import df_nulls
+from my_mod import state_abbreviation
 
-print("HAPPY TUESDAY NIGHT")
+x = 'nevada'
 
-df = pandas.DataFrame({'x':[1,2,3], 'y':[4,5,6]})
-print(df.head())
+state_abbreviation(x)
 
-x = 5
-print(df_nulls(df))
 
