@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 setup(
     name="julioe27-lambdata",
     version="1.0",
-    author="July E.",
+    author="Julio E.",
     author_email="datacreativellc@gmail.com",
     description="For example purposes",
     long_description=long_description,

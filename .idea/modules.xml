@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/julioe27-lambdata.iml" filepath="$PROJECT_DIR$/.idea/julioe27-lambdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/julioe27_lambdata.iml" filepath="$PROJECT_DIR$/.idea/julioe27_lambdata.iml" />
     </modules>
   </component>
 </project>

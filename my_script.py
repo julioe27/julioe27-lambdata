@@ -5,6 +5,4 @@ from my_mod import state_abbreviation
 
 x = 'nevada'
 
-state_abbreviation(x)
-
-
+print(state_abbreviation(x))
